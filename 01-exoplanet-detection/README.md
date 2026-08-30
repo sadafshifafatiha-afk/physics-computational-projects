@@ -72,3 +72,4 @@ A more advanced investigation could include analysis of multiple observing secto
 The complete Python implementation is available in the accompanying Jupyter notebook.
 
 **Google Colab:** To be added.
+![Folded Light Curve](exoplanet_plot.png)
