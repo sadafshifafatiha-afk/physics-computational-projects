@@ -1,55 +1,44 @@
-# physics-computational-projects
-My independent computational projects in physics, astrophysics, AI, and scientific programming.
-# Computational Physics & Astrophysics Projects
+# Portfolio: Computational Physics, Scientific Computing & AI/ML
 
-## About
+This repository contains my independent programming and computational projects developed using Python and Google Colab.
 
-This repository contains my independent programming and computational
-projects developed using Python and Google Colab.
+My primary focus lies at the intersection of **Physics, Astrophysics, Scientific Computing, Data Analysis**, and the application of **AI/ML to scientific problems**.
 
-My main interests are physics, astrophysics, scientific computing,
-data analysis, and the application of AI/ML to scientific problems.
+---
 
 ## Projects
 
 ### 1. Exoplanet Detection from Kepler Light Curves
-Astrophysics • Python • Lightkurve • BLS
+* **Field & Stack:** Astrophysics • Python • Lightkurve • BLS Algorithm
+* **Description:** Analysis of Kepler photometric data to identify periodic transit signals and detect potential exoplanets.
+* [📁 View Project](./Exoplanet-Detection/) *(Update folder path if different)*
 
-Analysis of Kepler photometric data to investigate periodic
-transit-like signals.
-
-[View Project](./01-exoplanet-detection/)
-
-### 2. Neural-Network Image Classification
-AI/ML • TensorFlow • Keras
-
-Implementation of a neural network for multi-class image
-classification using CIFAR-10.
-
-[View Project](./02-neural-network-classification/)
+### 2. Neural-Network Image Classification (CIFAR-10)
+* **Field & Stack:** AI/ML • Computer Vision • TensorFlow • Keras
+* **Description:** Building, training, and evaluating a Convolutional Neural Network (CNN) to classify images across 10 object classes with performance visualization.
+* [📁 View Project](./CIFAR10-CNN-Classifier/) *(Update folder path if different)*
 
 ### 3. PID Motor Speed-Control Simulation
-Numerical Modeling • Python
-
-Simulation of a feedback-control system using PID control.
-
-[View Project](./03-pid-motor-simulation/)
+* **Field & Stack:** Numerical Modeling • Python • SciPy • Control Systems
+* **Description:** Simulation of a feedback-control system using a Proportional-Integral-Derivative (PID) controller to regulate motor speed under dynamic loads.
+* [📁 View Project](./PID-Motor-Control/) *(Update folder path if different)*
 
 ### 4. A* Robot Path Planning
-Algorithms • Python
+* **Field & Stack:** Algorithms • Robotics • Python • Grid Search
+* **Description:** Implementation of the $A^*$ heuristic search algorithm to solve grid-based obstacle avoidance and optimal pathfinding problems.
+* [📁 View Project](./A-Star-Path-Planning/) *(Update folder path if different)*
 
-Implementation of A* heuristic search for grid-based path planning.
-
-[View Project](./04-a-star-path-planning/)
+---
 
 ## Tools & Skills
 
-Python • NumPy • Pandas • Matplotlib • SciPy
-Lightkurve • TensorFlow/Keras
-Google Colab • Data Analysis • Numerical Modeling
+* **Languages & Environments:** Python, Google Colab, Jupyter Notebooks
+* **Scientific Computing & Physics:** NumPy, SciPy, Lightkurve, Numerical Modeling
+* **Data Analysis & Visualization:** Pandas, Matplotlib, Seaborn
+* **Machine Learning & Deep Learning:** TensorFlow, Keras, CNN Architectures
+
+---
 
 ## Academic Direction
 
-I am interested in pursuing physics and astrophysics, particularly
-computational astrophysics, scientific data analysis, and the use
-of AI/ML in scientific research.
+I am pursuing studies in **Physics and Astrophysics**, with a dedicated focus on **computational astrophysics**, **scientific data analysis**, and leveraging **AI/ML tools to solve complex scientific questions**.
