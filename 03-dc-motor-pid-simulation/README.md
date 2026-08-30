@@ -22,11 +22,7 @@ This project simulates dynamic feedback speed control for a DC motor under a dis
 | **$K_d$** | `0.05` | Derivative gain (rate of change damping) |
 | **Time Span** | `0 - 10 s` | Simulation duration |
 
-## Setup & Dependencies
 
-To run the notebook locally or on Google Colab, ensure you have the following packages installed:
 
-```bash
-pip install numpy matplotlib
 
 
