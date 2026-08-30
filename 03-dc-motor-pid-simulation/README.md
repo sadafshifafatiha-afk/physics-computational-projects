@@ -29,6 +29,4 @@ To run the notebook locally or on Google Colab, ensure you have the following pa
 ```bash
 pip install numpy matplotlib
 
-## Simulation Results
 
-![PID Controller Speed Response](pid_simulation_output.png)
